@@ -1,0 +1,46 @@
+#row1 {
+  background-color: #dfdddd;
+  width: auto;
+  height: 120px;
+
+}
+#row1a {
+  background-color: #30c6f2;
+  width: 80px;
+  height:80px;
+  margin-left:30px;
+  margin-top: -20px;
+  position:absolute;
+}
+#row2 {
+  width: auto;
+  height: 200px;
+  text-align: center;
+}
+div, .lstrws {
+  width: auto;
+  height: 150px;
+}
+#row3 {
+  background-color: #30c6f2;
+  margin-bottom:-16px;
+}
+#row4 {
+  background-color: #5feadf;
+  margin-bottom:-16px;
+}
+#row5 {
+  background-color: #c3e510;
+  margin-bottom:-16px;
+}
+#row6 {
+  background-color: yellow;
+
+}
+p {
+  visibility: hidden;
+}
+span {
+  visibility: visible;
+  font-size: 45px;
+}

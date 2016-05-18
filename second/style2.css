@@ -1,0 +1,35 @@
+#left {
+  background-color: #30c6f2;
+  width: 370px;
+  height: 800px;
+  display: inline-block;
+  float:left;
+
+
+}
+#mid {
+  background-color: #5feadf;
+  width: 370px;
+  height: 800px;
+  display: inline-block;
+  float:left;
+}
+#right {
+  background-color: #c3e510;
+  width: 370px;
+  height: 800px;
+  display: inline-block;
+  position: absolute;
+  float:left;
+}
+#bottom {
+  background-color: red;
+  width: 370px;
+  height: 200px;
+  margin-top: 550px;
+  display: inline-block;
+  position: absolute;
+  float:right;
+  z-index: 2;
+
+}

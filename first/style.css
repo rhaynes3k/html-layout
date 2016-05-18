@@ -1,0 +1,33 @@
+#head {
+  width: auto;
+  height: 200px;
+  background-color: black;
+  color: white;
+}
+#lft {
+  background-color: gray;
+  width: 160px;
+  height: 600px;
+  display: inline-block;
+  float: left;
+}
+#rgt {
+  background-color: gray;
+  width: 160px;
+  height: 600px;
+  float: right;
+  clear: both;
+  display: inline-block;
+  position:absolute;
+  right:-1px;
+}
+
+#ftr {
+  background-color: black;
+  width: auto;
+  height: 100px;
+  position: relative;
+  color: white;
+  z-index: -1;
+  margin-top: 49%;
+}
